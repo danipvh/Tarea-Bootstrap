@@ -1,0 +1,17 @@
+h1{
+color:red;
+}
+
+h2{
+color:red;
+}
+
+body{
+background-color: lightblue;
+}
+
+img{
+      width: 400px;
+      height: 300px;
+      display: block;
+      margin: 0 auto;}
